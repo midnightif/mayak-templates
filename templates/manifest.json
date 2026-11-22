@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-11-22T02:47:15.824Z",
+  "templates": [
+    {
+      "id": "daily-report",
+      "version": "0.1.0",
+      "minAppVersion": "0.0.1",
+      "title": "Щоденний звіт (тестовий)",
+      "files": [
+        {
+          "path": "schema.json",
+          "sha256": "95642097719f45db4b19c085c8c0c09a6cd950e03fe69047467acdaec17113b6",
+          "size": 176
+        }
+      ]
+    }
+  ]
+}
